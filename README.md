@@ -5,7 +5,7 @@ Brainwave isn't your average landing page kit; it's a dynamic fusion of design b
 
 
 Explore Brainwave's live website to see captivating landing pages in action: [https://brainwave-ui-ux-livid.vercel.app] .
-For a closer look at the design and to purchase Brainwave: [https://ui8.net/ui8/products/brainwave-ai-landing-page-kit?rel=jsm]
+For a closer look at the design and to purchase Brainwave: [https://ui8.net/ui8/products/brainwave-ai-landing-page-kit]
 
 
 
